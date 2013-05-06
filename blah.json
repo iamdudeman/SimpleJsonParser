@@ -1,0 +1,15 @@
+{
+    "test": {
+        "test2": "neato"
+    },
+    "test3": [
+        null,
+        {
+            "thanks": "you are welcome"
+        },
+        3.43,
+        "rawr",
+        true,
+        false
+    ]
+}

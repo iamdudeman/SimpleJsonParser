@@ -1,0 +1,18 @@
+{
+	"menu": 
+	{
+	  "id": true,
+	  "blah": null,
+	  "popup": 
+	  {
+		"test" : "just a test",
+		"menuitem": 
+		[
+		  {"value": "New", "onclick": "CreateNewDoc()"},
+		  {"value": "Open", "onclick": "OpenDoc()"},
+		  {"value": "close", "onclick": "CloseDoc()"}
+		],
+		"test2" : "another test"
+	  }
+	}
+}

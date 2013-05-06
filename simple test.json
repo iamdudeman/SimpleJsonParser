@@ -1,0 +1,13 @@
+{
+    "test0": {
+        "test1": true,
+        "test2": false,
+        "hello": {
+            "meh": 37
+        },
+        "test3": null
+    },
+    "test4": true,
+    "test5": false,
+    "test6": null
+}
